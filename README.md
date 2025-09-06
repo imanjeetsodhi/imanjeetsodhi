@@ -47,16 +47,13 @@
 ## Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/manjeet-singh-sodhi-a28527261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>  
-  <a href="https://twitter.com/YOUR-TWITTER">
+  <a href="https://x.com/imanjeetsodhi?t=5yVHEWoHIGs2hVtiqS49iw&s=09">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>  
-  <a href="https://instagram.com/YOUR-INSTAGRAM">
+  <a href="https://www.instagram.com/imanjeetsodhi?igsh=MWw4N3d6N3hvbG53bA==">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>  
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>  
+  </a>
 </p>
