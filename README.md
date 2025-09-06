@@ -10,9 +10,23 @@
 ## GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imanjeetsodhi&show_icons=true&count_private=true&hide=issues&theme=github_dark" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanjeetsodhi&theme=github-dark-blue&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanjeetsodhi&layout=compact&theme=github_dark" height="170"/>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=imanjeetsodhi&show_icons=true&count_private=true&hide=issues&theme=github_dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=imanjeetsodhi&show_icons=true&count_private=true&hide=issues&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=imanjeetsodhi&show_icons=true&count_private=true&hide=issues" height="170"/>
+  </picture>
+
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=imanjeetsodhi&theme=github-dark-blue&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=imanjeetsodhi&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanjeetsodhi&hide_border=true" height="170"/>
+  </picture>
+
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imanjeetsodhi&layout=compact&theme=github_dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imanjeetsodhi&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanjeetsodhi&layout=compact" height="170"/>
+  </picture>
 </p>  
 
 ## Profile Metrics  
@@ -40,7 +54,11 @@
 
 <p align="center">
   <a href="https://github.com/imanjeetsodhi?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=imanjeetsodhi&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Achievements"/>
+    <picture>
+      <source srcset="https://github-profile-trophy.vercel.app/?username=imanjeetsodhi&theme=darkhub&no-frame=true&margin-w=10" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-profile-trophy.vercel.app/?username=imanjeetsodhi&theme=flat&no-frame=true&margin-w=10" media="(prefers-color-scheme: light)" />
+      <img src="https://github-profile-trophy.vercel.app/?username=imanjeetsodhi&no-frame=true&margin-w=10" alt="GitHub Achievements"/>
+    </picture>
   </a>  
 </p>  
 
